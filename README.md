@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm alif firdiansyah</h1>
-
+<p>code, code, code</p>
 <ul>
-  <li>- 🏫 I'm currently studying at the **Universitas Dinamika Surabaya**</li>
-    <li>- 🌱 I’m currently learning **web programming**</li>
-    <li>- 📫 How to reach me **aliffirdiansyah5@gmail.com**</li>
+  <li>🏫 I'm currently studying at the **Universitas Dinamika Surabaya**</li>
+    <li>🌱 I’m currently learning **web programming**</li>
+    <li>📫 How to reach me **aliffirdiansyah5@gmail.com**</li>
 </ul>
 
 
