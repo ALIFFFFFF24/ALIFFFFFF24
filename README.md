@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm alif firdiansyah</h1>
-- 🏫 I'm currently studying at the **Universitas Dinamika Surabaya**
 
-- 🌱 I’m currently learning **web programming**
+<ul>
+  <li>- 🏫 I'm currently studying at the **Universitas Dinamika Surabaya**</li>
+    <li>- 🌱 I’m currently learning **web programming**</li>
+    <li>- 📫 How to reach me **aliffirdiansyah5@gmail.com**</li>
+</ul>
 
-- 📫 How to reach me **aliffirdiansyah5@gmail.com**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
