@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alif firdiansyah</h1>
 <p>code, code, code</p>
 <ul>
-  <li>🏫 I'm currently studying at the <b>Universitas Dinamika Surabaya</b?</li>
+  <li>🏫 I'm currently studying at the <b>Universitas Dinamika Surabaya</b></li>
     <li>🌱 I’m currently learning <b>web programming</b></li>
     <li>📫 How to reach me <b>aliffirdiansyah5@gmail.com</b></li>
 </ul>
